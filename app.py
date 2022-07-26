@@ -1,9 +1,9 @@
-from platform import platform
 import cx_Oracle
 from sqlalchemy import create_engine
 import sys
 import os
 import pandas as pd
+
 '''
 - download and unzip latest version of Oracle Instant client from suitable to your system from 
     https://www.oracle.com/pl/database/technologies/instant-client/downloads.html
